@@ -1,0 +1,13 @@
+layout_spectrum: 0.1935484
+typography_spectrum: 0.5035842
+color:
+  saturation: 1
+  lightness: 0.6433692
+  brandStrength: 1
+  brandColors:
+    - '#000000'
+    - '#177EED'
+    - '#09325D'
+    - '#1265BD'
+  rhythmicContrast: 0.9909469
+name: Zain
