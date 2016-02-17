@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Zain]]></title>
-        <description><![CDATA[Zain]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[ZC Talent8 - Specialist Engineering, Rail, Property & Construction Talent Acquisition. ]]></title>
+        <description><![CDATA[ZC Talent8 - Specialist Engineering, Rail, Property & Construction Talent Acquisition. ]]></description>
+        <link>https://thegrid.ai/zain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 12:44:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Feb 2016 13:18:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/zain/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Be part of the force!]]></title>
+            <description><![CDATA[<article><h1>Be part of the force!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/195dc20c636213743c63c3c8a677c8daa806f446.jpg"></article>]]></description>
+            <link>https://thegrid.ai/zain/be-part-of-the-force/index.html</link>
+            <guid isPermaLink="false">39b8804e-c858-4600-a92d-332a4a811667</guid>
+            <pubDate>Wed, 17 Feb 2016 13:04:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ca815bd-2fe2-492e-ac5c-6c7bcf2b7a8e.jpg">]]></description>
-            <link>undefineda5428505-a9f4-4b12-a6b3-75b77d1a2c0f/index.html</link>
+            <link>https://thegrid.ai/zain/a5428505-a9f4-4b12-a6b3-75b77d1a2c0f/index.html</link>
             <guid isPermaLink="false">a5428505-a9f4-4b12-a6b3-75b77d1a2c0f</guid>
             <pubDate>Wed, 17 Feb 2016 12:44:36 GMT</pubDate>
         </item>
