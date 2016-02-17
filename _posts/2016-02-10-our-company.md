@@ -4,21 +4,21 @@ hasPage: false
 inNav: false
 isBasedOnUrl: ''
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-17T12:45:35.326Z'
-dateModified: '2016-02-17T12:45:25.776Z'
+datePublished: '2016-02-17T16:31:09.692Z'
+dateModified: '2016-02-17T14:30:12.706Z'
 title: Talent8
 author: []
 sourcePath: _posts/2016-02-10-our-company.md
 published: true
 authors: []
 publisher:
-  favicon: null
   name: null
   domain: null
   url: null
+  favicon: null
 _type: Blurb
 
 ---
