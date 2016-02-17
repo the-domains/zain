@@ -1,28 +1,41 @@
-name: Zain
-favicon: null
-layout_spectrum: 0.25145
-typography_spectrum: 0.50578
 title: 'ZC Talent8 - Specialist Engineering, Rail, Property & Construction Talent Acquisition. '
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.7473118
+  brandStrength: 1
+  lightness: 0.5734767
+  brandColors:
+    - '#040504'
+    - '#FCFCF3'
+    - '#878965'
+    - '#434DEA'
+    - '#65F1BF'
+  rhythmicContrast: 0.8387097
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Zain
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#177EED'
-    - '#09325D'
-    - '#1265BD'
-  brandStrength: 0.8125
-  lightness: 0.4375
-  saturation: 0.875
-  rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.50578
+layout_spectrum: 0.3261649
