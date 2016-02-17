@@ -1,7 +1,7 @@
 name: Zain
 favicon: null
-layout_spectrum: 0.1935484
-typography_spectrum: 0.5035842
+layout_spectrum: 0.25145
+typography_spectrum: 0.50578
 title: 'ZC Talent8 - Specialist Engineering, Rail, Property & Construction Talent Acquisition. '
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#177EED'
     - '#09325D'
     - '#1265BD'
-  brandStrength: 1
-  lightness: 0.8125
-  saturation: 0.5625
-  rhythmicContrast: 1
+  brandStrength: 0.8125
+  lightness: 0.4375
+  saturation: 0.875
+  rhythmicContrast: 0.75
 purpose: []
